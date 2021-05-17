@@ -1,0 +1,31 @@
+html {
+    background-color: black;
+    text-align: center;
+}
+
+
+
+.header {
+    font-family: 'Verderna' serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.header2 {
+    font-family: 'Verderna' serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.description {
+    font-family: 'Verderna' serif;
+    font-size: 21px;
+    color: gray;
+}
