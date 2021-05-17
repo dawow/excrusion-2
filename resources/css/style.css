@@ -1,4 +1,4 @@
-html {
+body {
     background-color: black;
     text-align: center;
 }
@@ -28,4 +28,11 @@ html {
     font-family: 'Verderna' serif;
     font-size: 21px;
     color: gray;
+}
+
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
 }
